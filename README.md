@@ -7,6 +7,6 @@ example: .minecraft/saves/world1/datapacks/"this or other packs" <br />
 Adds recipes to: <br /> 
 Diamonds <br /> 
 Copper <br /> 
-Zinc <br /> 
+Zinc
 
 Any ideas or changes can be suggested [here](https://github.com/Farmer-Markus/CreateCustomrecipes/pulls)
