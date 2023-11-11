@@ -11,5 +11,5 @@ Diamonds <br />
 Copper <br /> 
 Zinc
 
-Any ideas or changes can be suggested [here](https://github.com/Farmer-Markus/CreateCustomrecipes/pulls)
-Any issues please [here](https://github.com/Farmer-Markus/CreateCustomrecipes/issues)
+Any ideas or changes can be suggested [here](https://github.com/Farmer-Markus/CreateCustomrecipes/pulls). <br /> 
+And any issues please [here](https://github.com/Farmer-Markus/CreateCustomrecipes/issues).
