@@ -9,4 +9,4 @@ Diamonds <br />
 Copper <br /> 
 Zinc <br /> 
 
-Any ideas or changes can be suggested [here] (https://github.com/Farmer-Markus/CreateCustomrecipes/pulls)
+Any ideas or changes can be suggested [here](https://github.com/Farmer-Markus/CreateCustomrecipes/pulls)
