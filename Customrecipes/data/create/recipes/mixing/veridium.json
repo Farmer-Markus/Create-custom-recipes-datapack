@@ -1,0 +1,17 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "minecraft:andesite"
+    },
+    {
+      "item": "minecraft:cyan_dye"
+    }
+  ],
+  "results": [
+    {
+      "item": "create:veridium"
+    }
+  ]
+}
