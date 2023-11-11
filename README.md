@@ -8,3 +8,5 @@ Adds recipes to: <br />
 Diamonds <br /> 
 Copper <br /> 
 Zinc <br /> 
+
+Any ideas or changes can be suggested on https://github.com/Farmer-Markus/CreateCustomrecipes/pulls
