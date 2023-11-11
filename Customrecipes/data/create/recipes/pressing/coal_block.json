@@ -1,0 +1,39 @@
+{
+  "type": "create:compacting",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "tag": "minecraft:vanilla_logs"
+    },
+    {
+      "tag": "minecraft:vanilla_logs"
+    },
+    {
+      "tag": "minecraft:vanilla_logs"
+    },
+    {
+      "tag": "minecraft:vanilla_logs"
+    },
+    {
+      "tag": "minecraft:vanilla_logs"
+    },
+    {
+      "tag": "minecraft:vanilla_logs"
+    },
+    {
+      "tag": "minecraft:vanilla_logs"
+    },
+    {
+      "tag": "minecraft:vanilla_logs"
+    },
+    {
+      "tag": "minecraft:vanilla_logs"
+    }
+
+  ],
+  "results": [
+    {
+      "item": "minecraft:coal_block"
+    }
+  ]
+}
