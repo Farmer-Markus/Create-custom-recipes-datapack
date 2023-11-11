@@ -12,3 +12,4 @@ Copper <br />
 Zinc
 
 Any ideas or changes can be suggested [here](https://github.com/Farmer-Markus/CreateCustomrecipes/pulls)
+Any issues please [here](https://github.com/Farmer-Markus/CreateCustomrecipes/issues)
