@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "blocks/food...)",                 //optional
+  "cookingtime": 100,                            //optional
+  "experience": 0.0,                             //optional
+  "ingredient": {
+    "item": "inputitem"                          //also works with tags: "tag": "tag"
+  },
+  "result": "resultitem"
+}
+//you need to delete all "//" comments!

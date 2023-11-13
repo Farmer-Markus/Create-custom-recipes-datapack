@@ -1,0 +1,16 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "intputitem"                       //also works with tags: "tag": "tag"
+    }
+  ],
+  "processingTime": 1000,
+  "results": [                                   //for multiple item outputs add a new: "{
+    {                                            //                                        "chance": 10,
+      "chance": 10,                              //                                        "item": "resultitem"
+      "item": "resultitem"                       //                                        "count": 2,            //optional
+    }                                            //                                     "}
+  ]                                              //and add an "," behind the "}" before.
+}
+//you need to delete all "//" comments!

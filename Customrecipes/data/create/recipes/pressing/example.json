@@ -1,0 +1,15 @@
+{
+  "type": "create:compacting",
+  "heatRequirement": "heated/superheated",       //optional
+  "ingredients": [
+    {
+      "item": "inputitem"                        //also works with tags: "tag": "tag"
+    }                                            //for multiple item inputs add a new: "{
+  ],                                             //                                       "item": "inputitem"
+  "results": [                                   //                                    "}
+    {                                            //and add an "," behind the "}" before.
+      "item": "resultitem"
+    }
+  ]
+}
+//you need to delete all "//" comments!
