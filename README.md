@@ -1,5 +1,3 @@
-# CreateCustomrecipes![pack](https://github.com/Farmer-Markus/CreateCustomrecipes/assets/145863173/dbd93f09-e729-4a47-a7da-1d2d877f884d)
-
 A Minecraft datapack for the Create Fabric mod that adds new recipes for automation.
 
 Place the Pack folder or the zip file in your world folder into datapacks folder.  <br /> 
