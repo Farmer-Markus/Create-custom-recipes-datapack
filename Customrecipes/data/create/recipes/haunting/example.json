@@ -1,0 +1,14 @@
+{
+  "type": "create:haunting",
+  "ingredients": [
+    {
+      "item": "inputitem"                        //also works with tags: "tag": "tag"
+    }
+  ],
+  "results": [
+    {
+      "item": "resultitem"
+    }
+  ]
+}
+//you need to delete all "//" comments!
