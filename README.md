@@ -12,3 +12,5 @@ Zinc
 
 Any ideas or changes can be suggested [here](https://github.com/Farmer-Markus/CreateCustomrecipes/pulls). <br /> 
 And any issues please [here](https://github.com/Farmer-Markus/CreateCustomrecipes/issues).
+
+You can use this Pack however you want and do whatever you want :)
